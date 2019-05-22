@@ -12,7 +12,6 @@ It is implemented using Tensorflow.
 
 
 
-
 This folder contains codes to implement:
 
 1.Traditional machein learning classification
