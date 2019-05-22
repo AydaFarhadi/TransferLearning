@@ -1,4 +1,4 @@
-# TransferLearning of structured dataset 
+# TransferLearning on Structured Dataset 
 The following contains the code for standard classification, boosting and trasnfer loearning on target dataset. Dataset is imbalanced. 
 We tried trasnfer learning with freezing the first k layers and retraining the last (n-k) layers: Retraining multiple layers, and unfreezing them. 
 
