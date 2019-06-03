@@ -6,7 +6,7 @@ Transfer learning or inductive transfer is a research problem in machine learnin
 
 It is implemented using Tensorflow.
 
-![Transfer Learning using Tensorflow](https://drive.google.com/drive/folders/1v4exgOtBj12wwQIxmfMTDi2O5uDDaLe-pic.png)
+![Transfer Learning using Tensorflow]()
 This folder contains codes to implement:
 
 1.Traditional machein learning classification
