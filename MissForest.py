@@ -7,7 +7,7 @@ from sklearn.neighbors import KNeighborsRegressor
 from sklearn.preprocessing import Imputer
 from sklearn.utils.validation import check_array, check_is_fitted, check_X_y
 
-# Implementation close to missforest implementation on R
+# Implementation of missforest implementation on python
 
 class PredictiveImputer(BaseEstimator, TransformerMixin):
     def __init__(self, max_iter=10, initial_strategy='mean', tol=1e-3, f_model="RandomForest"):
