@@ -61,7 +61,7 @@ class PreTrainedModel(dataset1,dataset2):
 
 
     sc = StandardScaler()
-    ## Data loaders
+    ## data loaders
     def load_breast_test():
         #result, 30,31
 	    breast_data =dataset
