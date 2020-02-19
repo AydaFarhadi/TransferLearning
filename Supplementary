@@ -5,6 +5,7 @@ Preprocess data for the source task.
 Use PreTrainedModel class to create the source model.
 Save the model in order to save weights and biases.
 Preprocess your data for the target task.
+Use BoostingClassifier class to predict the class in your dataset.
 Use TraditionalClassifiers class to predict the class in your dataset.
 Use TransferLearningClassifier class to predict the class in your dataset.
 Compare performance using five states of the art performance evaluators.
