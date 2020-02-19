@@ -19,7 +19,7 @@ using 5 fold cross validation and return all performances used for evaluation of
 '''
 
 # traditional classification of Mammographic mass dataset
-data = pd.read_csv('/Users/aydafarhadi/Desktop/BreastCancer/UCI/Cleaned_data.csv', header=None)
+data = pd.read_csv('/Users/aydafarhadi/Desktop/BreastCancer/UCI/cleaned_data.csv', header=None)
 data = data[1:]
 
 class TraditionalClassifiers(data):
