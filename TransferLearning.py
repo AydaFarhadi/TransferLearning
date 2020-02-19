@@ -44,7 +44,7 @@ from sklearn.model_selection import StratifiedKFold
 mass = pd.read_csv('/Users/aydafarhadi/Desktop/BreastCancer/UCI/Cleaned_data.csv', header=None)
 mass2 = mass[1:]
 
-class TraditionalClassifiers(data):
+class TransferLearningClassifier(data):
 
     def __init__(self):
         self.data=data
